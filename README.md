@@ -56,8 +56,8 @@ Primary service areas include:
 
 ## 📱 Contact Information
 
-- **Phone**: (254) 555-0123
-- **Email**: info@araujosolutions.com
+- **Phone**: (254) 300-1894
+- **Email**: araujo.solutions254@gmail.com
 - **Facebook**: [Techproswaco](https://www.facebook.com/Techproswaco/)
 
 ## 🔧 Development
