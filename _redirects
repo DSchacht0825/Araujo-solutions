@@ -1,0 +1,10 @@
+# Netlify Redirects for Araujo Solutions
+# Redirect non-www to www
+http://araujosolutions.com/* https://www.araujosolutions.com/:splat 301!
+https://araujosolutions.com/* https://www.araujosolutions.com/:splat 301!
+
+# Redirect index.html to root
+/index.html / 301!
+
+# Trailing slash redirects
+/*/ /:splat 301!

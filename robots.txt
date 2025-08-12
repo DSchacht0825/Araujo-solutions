@@ -1,12 +1,19 @@
 User-agent: *
 Allow: /
 
+# Primary domain - www.araujosolutions.com
+# All other variations should redirect to this canonical URL
+
 # Sitemap location
 Sitemap: https://www.araujosolutions.com/sitemap.xml
 
-# Allow all search engines to crawl
+# Crawl settings
 Crawl-delay: 1
 
 # Disallow crawling of any admin or private directories (if added later)
 # Disallow: /admin/
 # Disallow: /private/
+
+# Prevent crawling of alternate domain versions
+User-agent: *
+Disallow: /index.html
